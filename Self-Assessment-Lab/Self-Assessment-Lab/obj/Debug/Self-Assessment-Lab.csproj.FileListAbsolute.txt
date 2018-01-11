@@ -1,0 +1,7 @@
+C:\Users\Engineer\Desktop\Prep-eM\Microsoft-OOP-course\Self-Assessment-Lab\Self-Assessment-Lab\bin\Debug\Self-Assessment-Lab.exe.config
+C:\Users\Engineer\Desktop\Prep-eM\Microsoft-OOP-course\Self-Assessment-Lab\Self-Assessment-Lab\bin\Debug\Self-Assessment-Lab.exe
+C:\Users\Engineer\Desktop\Prep-eM\Microsoft-OOP-course\Self-Assessment-Lab\Self-Assessment-Lab\bin\Debug\Self-Assessment-Lab.pdb
+C:\Users\Engineer\Desktop\Prep-eM\Microsoft-OOP-course\Self-Assessment-Lab\Self-Assessment-Lab\obj\Debug\Self-Assessment-Lab.csprojResolveAssemblyReference.cache
+C:\Users\Engineer\Desktop\Prep-eM\Microsoft-OOP-course\Self-Assessment-Lab\Self-Assessment-Lab\obj\Debug\Self-Assessment-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Prep-eM\Microsoft-OOP-course\Self-Assessment-Lab\Self-Assessment-Lab\obj\Debug\Self-Assessment-Lab.exe
+C:\Users\Engineer\Desktop\Prep-eM\Microsoft-OOP-course\Self-Assessment-Lab\Self-Assessment-Lab\obj\Debug\Self-Assessment-Lab.pdb

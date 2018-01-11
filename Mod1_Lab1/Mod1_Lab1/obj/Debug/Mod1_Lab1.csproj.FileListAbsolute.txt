@@ -1,0 +1,7 @@
+C:\Users\Engineer\Desktop\Prep-eM\Mod1_Lab1\Mod1_Lab1\bin\Debug\Mod1_Lab1.exe.config
+C:\Users\Engineer\Desktop\Prep-eM\Mod1_Lab1\Mod1_Lab1\bin\Debug\Mod1_Lab1.exe
+C:\Users\Engineer\Desktop\Prep-eM\Mod1_Lab1\Mod1_Lab1\bin\Debug\Mod1_Lab1.pdb
+C:\Users\Engineer\Desktop\Prep-eM\Mod1_Lab1\Mod1_Lab1\obj\Debug\Mod1_Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Engineer\Desktop\Prep-eM\Mod1_Lab1\Mod1_Lab1\obj\Debug\Mod1_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Prep-eM\Mod1_Lab1\Mod1_Lab1\obj\Debug\Mod1_Lab1.exe
+C:\Users\Engineer\Desktop\Prep-eM\Mod1_Lab1\Mod1_Lab1\obj\Debug\Mod1_Lab1.pdb
